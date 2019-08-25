@@ -18,7 +18,7 @@ Just enjoy your day！
      - gigi
    - Water
    - 中文
-   - [] buy apple
+   - [ ] buy apple
    - [x] buy orange
-   - [] see ya
+   - [ ] see ya
 
